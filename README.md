@@ -1,2 +1,3 @@
 # Tribute-Page
-Tribute Page exercise from freeCodeCamp
+
+[Link to page](https://andreasosamolina.github.io/Tribute-Page/)
